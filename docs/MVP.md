@@ -12,8 +12,11 @@ O que é o mínimo que precisamos atender:
   - Mostrar para os horários que você está disponível
   - Garantir que somente horários disponíveis aparecerão (evitar conflitos)
 - Salvar eventos marcados
-- Ter um lugar para poder ver os eventos gravados
+- Mostrar uma lista de eventos gravados
+  - Ter uma maneira de cancelar o evento
+    - Se cancelar, enviar um cancelamento do convite para os participantes
 - Enviar um convite para os participantes
+  - Link para a pessoa poder cancelar a reunião ou dizer que não pode
 
 O escopo estendido inclui:
 
