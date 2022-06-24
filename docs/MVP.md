@@ -27,3 +27,4 @@ O escopo estendido inclui:
     - Quais serão usados para calcular conflitos
     - Em qual calendário o evento será gravado
   - Mostrar para as pessoas os horários que você está disponível
+  - Gerar links para Google Meet (ou equivalente da Microsoft) para cada evento
