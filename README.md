@@ -1,4 +1,4 @@
-# my-calendar
+# agendarium
 
 Uma ferramenta para ajudar as pessoas a se encontrarem.
 
